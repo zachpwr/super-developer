@@ -24,4 +24,4 @@ This course is aimed at complete beginners. Therefore, you don't need any prior 
 You can expect to spend about 1.5 hours at the ETS on the day of your scheduled workshop. Each workshop is a start-to-finish tutorial, meaning you will not have to come to the ETS multiple times to complete the course.
 
 ## Getting Started
-To get started with this course... _to be continued_
+To get started with this course, please go to [Chapter 0](https://github.com/zachpwr/super-developer/wiki/Chapter-0:-Website-Basics) of the course wiki.
