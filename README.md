@@ -14,7 +14,6 @@ This course is __free__ to students and staff of Binghamton University.
 ### Are there any prerequisites?
 This course is aimed at complete beginners. Therefore, you don't need any prior coding experience to participate. However, we do ask that you complete the following before arriving:
 
-* Reserve a seat at the ETS - [Click Here](https://www.binghamton.edu/its/facilities/ets/)
 * Register for a GitHub account - [Click Here](http://www.github.com)
 * Bring a profile picture for your website:
   * Google Drive, USB drives, and email are great ways of getting your picture onto the ETS computers.
@@ -24,4 +23,4 @@ This course is aimed at complete beginners. Therefore, you don't need any prior 
 You can expect to spend about 1.5 hours at the ETS on the day of your scheduled workshop. Each workshop is a start-to-finish tutorial, meaning you will not have to come to the ETS multiple times to complete the course.
 
 ## Getting Started
-To get started with this course... _to be continued_
+To get started with this course, please go to [Chapter 0](https://github.com/zachpwr/super-developer/wiki/Chapter-0:-Website-Basics) of the course wiki.
