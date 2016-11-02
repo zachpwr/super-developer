@@ -14,7 +14,6 @@ This course is __free__ to students and staff of Binghamton University.
 ### Are there any prerequisites?
 This course is aimed at complete beginners. Therefore, you don't need any prior coding experience to participate. However, we do ask that you complete the following before arriving:
 
-* Reserve a seat at the ETS - [Click Here](https://www.binghamton.edu/its/facilities/ets/)
 * Register for a GitHub account - [Click Here](http://www.github.com)
 * Bring a profile picture for your website:
   * Google Drive, USB drives, and email are great ways of getting your picture onto the ETS computers.
